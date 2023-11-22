@@ -31,13 +31,13 @@ $arM = array(
             /* width: 100px; */
             box-sizing: content-box;
         }
-        thead {
-            /* width: 100px; */
+        /* thead {
+            width: 100px;
         }
         tbody {
-            /* height: 100px;
-            width: 100px; */
-        }
+            height: 100px;
+            width: 100px;
+        } */
         th, td {
             padding: 0;
             height: 10px;
