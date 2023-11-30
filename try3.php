@@ -49,8 +49,6 @@ function ConvertArray($arD, $arM = [], $absPos = 0) {
 // Массив с исходными данными о папках и файлах
 $arData = array(
     ["type" => "folder", "name" => "d", "objects" => array(
-        ["type" => "file", "name" => "f_1"], 
-        ["type" => "file", "name" => "f_2"], 
         ["type" => "folder", "name" => "d_1", "objects" => array(
             ["type" => "file", "name" => "f_3"],
             ["type" => "folder", "name" => "d_2", "objects" => array(
